@@ -12,12 +12,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/money_input"
-        android:inputType="number"/>
+        android:inputType="number"
+        android:autofillHints="" />
     <EditText
         android:id="@+id/inputInfo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="@string/payment_Information" />
+        android:hint="@string/payment_Information"
+        android:autofillHints="" />
     <Button
         android:id="@+id/btnOK"
         android:layout_width="wrap_content"

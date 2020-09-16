@@ -6,4 +6,5 @@
     <string name="from_a_bank_card">С банковской карты</string>
     <string name="from_a_mobile_phone">С мобильного телефона</string>
     <string name="cash_at">Наличными по адресу</string>
+    <string name="go_payment_page">Переход на страницу оплаты</string>
 </resources>
